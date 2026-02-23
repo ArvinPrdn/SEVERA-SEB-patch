@@ -15,9 +15,9 @@
 # ======================= KONFIGURASI =======================
 # Ganti URL berikut sesuai dengan repository GitHub Anda
 $urls = @{
-    "v3.9"    = "https://github.com/username/repo/releases/download/v3.9/app.exe"
-    "v3.10"   = "https://github.com/username/repo/releases/download/v3.10/app.exe"
-    "v3.10.1" = "https://github.com/username/repo/releases/download/v3.10.1/app.exe"
+    "v3.9"    = "https://github.com/ArvinPrdn/SEVERA-SEB-patch/releases/download/v3.9/patch-seb.exe"
+    "v3.10"   = "https://github.com/ArvinPrdn/SEVERA-SEB-patch/releases/download/v3.10/patch-seb.1.exe"
+    "v3.10.1" = "https://github.com/ArvinPrdn/SEVERA-SEB-patch/releases/download/v3.10.1/patch-seb.1.exe"
 }
 
 # Nama file lokal (kosongkan untuk menggunakan nama dari URL)
